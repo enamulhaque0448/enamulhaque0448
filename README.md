@@ -1,21 +1,3 @@
-<div align="center">
-
-```
-███████╗███╗   ██╗ █████╗ ███╗   ███╗██╗   ██╗██╗         ██╗  ██╗ █████╗  ██████╗ ██╗   ██╗███████╗
-██╔════╝████╗  ██║██╔══██╗████╗ ████║██║   ██║██║         ██║  ██║██╔══██╗██╔═══██╗██║   ██║██╔════╝
-█████╗  ██╔██╗ ██║███████║██╔████╔██║██║   ██║██║         ███████║███████║██║   ██║██║   ██║█████╗  
-██╔══╝  ██║╚██╗██║██╔══██║██║╚██╔╝██║██║   ██║██║         ██╔══██║██╔══██║██║▄▄ ██║██║   ██║██╔══╝  
-███████╗██║ ╚████║██║  ██║██║ ╚═╝ ██║╚██████╔╝███████╗    ██║  ██║██║  ██║╚██████╔╝╚██████╔╝███████╗
-╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=Cybersecurity+Enthusiast+%7C+CTF+Player;Offensive+Security+Aspirant+%7C+Red+Teamer;Breaking+Things+Ethically+Since+2025;Root+Access+To+Knowledge+%F0%9F%94%93" alt="Typing SVG" />
-
-</div>
-
-
-
----
 
 
 
@@ -84,16 +66,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/etp16235)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enamul._.hq)
 
-</div>
-### ⚡ **THE MANIFESTO** ⚡
 
-```diff
-@@                                                                              @@
-+  "I've been debugging systems and myself—both fail for the same reason:      +
-+   too much 'WHY?' and not enough 'HOW?' But every bug fixed,                 +
--   every exploit discovered, brings me one step closer to mastery."           -
-@@                                                                              @@
-```
-
-</div>
 
